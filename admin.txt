@@ -1,0 +1,5 @@
+admin@mail.com:123456789:admin:01097967856:15000:26:senior:devops:admin:
+ahmed@mail.com:12345678:ahmed:01096543272:12000:33:senior:backend:employee:
+sara@mail.com:87654321:sara:01097654832:6000:44:senior:devops:employee:
+alla@mail.com:1234567890:alla:01097648393:30000:33:senior:devops:employee:
+kareem@mail.com:123456:kareem:01096474844:2222:27:senior:devops:admin:
