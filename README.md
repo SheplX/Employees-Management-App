@@ -1,7 +1,7 @@
 # Simple Employees Management Console App Using Python.
 ## Login:
 - When opening the app, display “welcome, press 1 for login, any other character for exit”  
-  - If he pressed any other character, the system will display “GoodBye sir”  
+  - If the user pressed any other character, the system will display “GoodBye sir”  
   - If the user pressed 1, the system will ask for the user's email and password.  
   - System will check the credentials of the user, if it is correct, display the message ‘HelloHossam user’  
   - If credentials are wrong, generate an error message and ask the user to enter his dataagain or exit the system.
