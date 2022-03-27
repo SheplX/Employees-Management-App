@@ -5,13 +5,13 @@
   - If the user pressed 1, the system will ask for the user's email and password.  
   - System will check the credentials of the user, if it is correct, display the message ‘HelloHossam user’  
   - If credentials are wrong, generate an error message and ask the user to enter his dataagain or exit the system.
-## if the Logged in user is having admin rule, he will have the following list:  
+## If the Logged in user is having admin rule, he will have the following list:  
 - Add new employee  
 - Add new Admin  
 - Remove current employee by the employee email.  
 - Edit specific current employee data.
-## if the current logged in user is an employee:  
+## If the current logged in user is an employee:  
 - Display a list with options to :  
-- Calculate his salary data.  
-- Calculate all employee's salaries.  
-- Get the age of a specific employee by searching with his email.
+  - Calculate his salary data.  
+  - Calculate all employee's salaries.  
+  - Get the age of a specific employee by searching with his email.
